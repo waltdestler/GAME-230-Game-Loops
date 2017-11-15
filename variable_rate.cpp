@@ -1,4 +1,4 @@
-/*#include <SFML/Graphics.hpp>
+#include <SFML/Graphics.hpp>
 #include <SFML/Window.hpp>
 #include <SFML/Audio.hpp>
 #include <SFML/Network.hpp>
@@ -64,4 +64,4 @@ void render_frame()
 {
 	window.clear();
 	window.draw(shape);
-}*/
+}
